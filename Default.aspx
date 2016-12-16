@@ -15,6 +15,6 @@
             title="MSDN ASP.NET Docs">documentation on ASP.NET at MSDN</a>.
     </p>
     <p>
-        Kent
+        Martius
     </p>
 </asp:Content>
